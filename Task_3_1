@@ -1,0 +1,29 @@
+html, body{
+    width: 100px;
+    margin: 0;
+    padding: 0;  
+}
+
+body{
+    box-sizing: border-box;
+    padding-top: 147px;
+}
+.page-header {
+width: 100%;
+}
+
+.page-header__logo {
+    width: 202px;
+}
+
+.page-header__nav {
+    gap: 50px;
+} 
+
+.main {
+flex: 1 0 auto;
+}
+
+.page-footer {
+flex: 0 0 auto;
+}
